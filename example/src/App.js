@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'second-example-component'
+import ExampleComponent from 'second-test-module'
 
 export default class App extends Component {
   render () {

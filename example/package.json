@@ -1,6 +1,6 @@
 {
-  "name": "second-example-component-example",
-  "homepage": "https://casufi.github.io/second-example-component",
+  "name": "second-test-module-example",
+  "homepage": "https://casufi.github.io/second-test-module",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -9,7 +9,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^1.1.4",
-    "second-example-component": "file:.."
+    "second-test-module": "file:.."
   },
   "scripts": {
     "start": "react-scripts start",
